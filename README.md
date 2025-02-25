@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # test_task
-Тестовое
-=======
-# TASK
+
 
 
 ## Стек технологий
@@ -26,4 +23,3 @@
 
    Swagger:
    ```http://localhost:8089/docs```
->>>>>>> develop
