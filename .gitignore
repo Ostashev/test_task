@@ -135,7 +135,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-uploads/
+uploads/*
+!uploads/.gitkeep
 
 # Spyder project settings
 .spyderproject
